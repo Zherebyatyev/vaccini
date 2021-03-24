@@ -1,8 +1,7 @@
 [
   {
-    "dosi_somministrate": 8257565
-    "prime_dosi1": 32342
-    "prime_dosi2": 5633364
+    "dosi_somministrate": 8257565,
+    "prime_dosi": 5633364,
     "persone_vaccinate": 2624201
   }
 ]
