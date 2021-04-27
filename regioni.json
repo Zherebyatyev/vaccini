@@ -1,8 +1,8 @@
 [
   {
-    "regioniRosse":1,
-    "regioniArancioni":5,
-    "regioniGialle":15,
-    "regioniBianche":0
+    "regioniRosse":"Attualmente 1 regione",
+    "regioniArancioni":"Attualmente 5 regioni",
+    "regioniGialle":"Attualmente 15 regioni",
+    "regioniBianche":"Attualmente 0 regioni"
   }
 ]
