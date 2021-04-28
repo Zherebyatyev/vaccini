@@ -1,26 +1,26 @@
 [
   {
-    "coloreAbbruzzo":"Attualmente 15 regioni",
-    "coloreBasilicata":"Attualmente 15 regioni",
-    "coloreCalabria":"Attualmente 15 regioni",
-    "coloreCampania":"Attualmente 15 regioni",
-    "coloreEmilia":"Attualmente 15 regioni",
-    "coloreFriuli":"Attualmente 15 regioni",
-    "coloreLazio":"Attualmente 15 regioni",
-    "coloreLiguria":"Attualmente 15 regioni",
-    "coloreLombardia":"Attualmente 15 regioni",
-    "coloreMarche":"Attualmente 15 regioni",
-    "coloreMolise":"Attualmente 15 regioni",
-    "colorePiemonte":"Attualmente 15 regioni",
-    "colorePuglia":"Attualmente 15 regioni",
-    "coloreSardegna":"Attualmente 15 regioni",
-    "coloreSicilia":"Attualmente 15 regioni",
-    "coloreToscana":"Attualmente 15 regioni",
-    "coloreBolzano":"Attualmente 15 regioni",
-    "coloreTrento":"Attualmente 15 regioni",
-    "coloreUmbria":"Attualmente 15 regioni",
-    "coloreValledaosta":"Attualmente 15 regioni",
-    "coloreVeneto":"Attualmente 15 regioni",
+    "coloreAbbruzzo":"#F9D423",     //giallo
+    "coloreBasilicata":"#FC913A",   //arancione
+    "coloreCalabria":"#FC913A",     //arancione
+    "coloreCampania":"#F9D423",     //giallo
+    "coloreEmilia":"#F9D423",       //giallo
+    "coloreFriuli":"#F9D423",       //giallo
+    "coloreLazio":"#F9D423",        //giallo
+    "coloreLiguria":"#F9D423",      //giallo
+    "coloreLombardia":"#F9D423",    //giallo
+    "coloreMarche":"#F9D423",       //giallo
+    "coloreMolise":"#F9D423",       //giallo
+    "colorePiemonte":"#F9D423",     //giallo
+    "colorePuglia":"#FC913A",       //arancione
+    "coloreSardegna":"#FF4E50",     //rosso
+    "coloreSicilia":"#FC913A",      //arancione
+    "coloreToscana":"#F9D423",      //giallo
+    "coloreBolzano":"#F9D423",      //giallo
+    "coloreTrento":"#F9D423",       //giallo
+    "coloreUmbria":"#F9D423",       //giallo
+    "coloreValledaosta":"#FC913A",  //arancione
+    "coloreVeneto":"#F9D423",       //giallo
     
     "regioniRosse":"Attualmente 1 regione",
     "regioniArancioni":"Attualmente 5 regioni",
